@@ -1,18 +1,23 @@
 📊 Regional Sales Analysis — EDA & Power BI Dashboard
+
 🧩 Project Overview
 This project focuses on analyzing 5 years of regional sales data to uncover key business insights, identify growth opportunities, and support data-driven decision-making. The analysis was conducted using Python (EDA) and visualized using an interactive Power BI dashboard.
 
+
 🎯 Business Problem
 The company faced inconsistent revenue and profit performance across U.S. regions, lacking visibility into:
+
 
 Seasonal sales patterns
 Top-performing SKUs and channels
 Regional profitability differences
 Goal: Build data-driven insights and an interactive dashboard to optimize regional sales strategy.
 
+
 🧠 Approach
 Phase 1: Exploratory Data Analysis (Python)
 Performed data cleaning, feature engineering, and exploratory visualizations to identify sales trends, product performance, and customer segmentation.
+
 
 Steps:
 
