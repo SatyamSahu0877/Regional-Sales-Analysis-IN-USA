@@ -33,6 +33,7 @@ Regional performance
 Product profitability
 Customer segmentation
 Seasonal and channel-wise trends
+
 🧰 Tools & Technologies
 Category	Tools Used
 Programming	Python
@@ -40,6 +41,7 @@ Libraries	Pandas, NumPy, Matplotlib, Seaborn, Plotly
 Visualization	Power BI
 File Format	Excel / CSV
 Documentation	Markdown, PowerPoint Summary
+
 🧼 Data Pre-Processing
 Merged multiple raw tables: Sales, Products, Customers, Regions, and Budgets
 Standardized column names
@@ -48,6 +50,7 @@ Created new features:
 profit = revenue - cost
 profit_margin_pct = profit / revenue * 100
 Verified: No missing or duplicate records
+
 📊 Key Insights
 Area	Findings
 Seasonality	Revenue peaks in May–June, drops in January
@@ -56,28 +59,33 @@ Channels	Wholesale = 54% of sales; Export = highest margin (~38%)
 Geography	California dominates sales ($230M); West region leads overall
 Customers	“Aibox Company” contributes highest revenue
 Correlations	Unit price drives profit (corr = 0.79) more than quantity
+
 💡 Recommendations
 Seasonal Promotions: Boost sales in low months (Jan–Apr)
 SKU Optimization: Focus on top 25% of products, phase out low-margin SKUs
 Channel Strategy: Expand export partnerships and incentivize wholesale volume
 Regional Focus: Replicate California’s success model in Midwest & Northeast
 Margin Alerts: Monitor and improve low-margin orders
+
 📈 Dashboard Overview
 Power BI Pages:
 
 Performance Summary: Revenue, profit, and region KPIs
 Customer Segmentation: Revenue vs Profit Margin insights
 Revenue Scenarios: Forecast and comparative analysis
+
 ✅ Results & Impact
 Achieved complete end-to-end analysis pipeline from raw data to insights
 Improved visibility into regional trends and product performance
 Enabled self-service analytics for business users via Power BI
+
 📂 Files Included
 File	Description
 EDA.ipynb	Python notebook for data analysis
 Regional_Sales_Dashboard.pbix	Power BI dashboard
 PPT --- Regional Sales Analysis.pptx	Presentation summary
 README.md	Project documentation (this file)
+
 🚀 Future Improvements
 Integrate real-time data pipelines (Power BI + SQL)
 Add predictive models for sales forecasting
