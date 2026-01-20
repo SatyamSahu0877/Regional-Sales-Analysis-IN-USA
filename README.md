@@ -77,4 +77,5 @@ README.md	Project documentation (this file)
 Integrate real-time data pipelines (Power BI + SQL)
 Add predictive models for sales forecasting
 Automate monthly performance reports
+
 Author: Satyam Sahu Role: Data Analyst Tools: Python, Power BI, Excel
